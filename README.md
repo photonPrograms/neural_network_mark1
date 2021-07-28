@@ -1,6 +1,7 @@
 # neural_network_mark1
 Neural Network with one hidden layer to classify arbitrarily separated points
 numpy used. more abstract libraries not used.
+data stored in json format
 
 Execution order:
 (1) Supply the data using a program of data_gen family (uncomment the plotting portions to see the nature of the data), or use your own data
